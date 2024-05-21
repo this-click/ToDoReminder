@@ -17,8 +17,8 @@ ToDo Reminder has a simple and uncluttered UI and you can easily manage your rem
 - Visual Studio 2022 with .NET 8
 
 ## How to install and run the project:
-1. Click on Code and select Download zip
-2. Extract the archive and open Visual Studio
+1. Click on Code and select Download zip.
+2. Extract the archive and open Visual Studio.
 3. Click Open > Project/Solution and select ToDoReminder.sln from you local directory.
 4. After the project is loaded, click on Debug > Start debugging or Start without debugging.
 
